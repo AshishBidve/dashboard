@@ -8,7 +8,7 @@ The api is hosted on [Render](https://render.com/).
 
 **Deployed Link**: [_Try it out_](https://cipherschools-profile.onrender.com/)
 
-**Github**: [_Link_](https://github.com/ananyo141/cipherschools-profile-page/)
+
 
 _NOTE: As the server is hosted on free tier, it may take upto 2 minutes when
 serving the first api request._
