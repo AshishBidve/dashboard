@@ -1,7 +1,6 @@
 {
   "name": "cipherschools-profile-page",
   "version": "1.0.0",
-  "author": "Ananyobrata Pal <ananyo141@gmail.com>",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "husky": "^8.0.0",
